@@ -16,7 +16,7 @@ Rather than extracting solutions through AI conversations without contributing b
 
 ## Attribution & Methodology
 
-Solutions documented here have been discovered through various means, including use of AI-assisted tools (Perplexity AI) for research and problem-solving. Each solution entry includes:
+Solutions documented here have been discovered through various means, including use of AI-assisted tools for research and problem-solving. Each solution entry includes:
 
 - **Problem statement**: Clear description of the issue encountered
 - **Context**: Device specifications, software versions, error messages, environment details
